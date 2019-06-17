@@ -1,0 +1,67 @@
+    html,body{
+	       height: 100%;
+	       width: 100%;
+	       padding: 0px;
+	       margin: 0px;
+	      
+	   }
+	   .maindiv{
+	   	       height: 100%;
+	           width: 100%;
+	           margin:0px;
+	           padding: 0px;
+	           
+	           
+	           
+	            }
+	    .headerdiv{
+	    	        width:100%;
+	    	        height: 82px;
+	    	        background-color: #3b5998;
+	    	        border-bottom: 1px solid #133783;
+	    	        margin: 0px;
+	    	        padding: 0px;
+	    }
+	    
+	    	    .logodiv{
+	    	      width: 170px;
+	    	      height: 55px;
+	    	      float: left;
+	    	      margin-left:190px;
+	    	      margin-top:25px; 
+	    }        
+	    .photodiv{
+	    	       width:100%;
+	    	       height:80%;
+	    	       position: relative;
+				   left: 0px;
+				   background: linear-gradient(white, #D3D8E8);
+	    	       
+	    	   }
+	    .fbheading{
+	    	    color: #0e385f;
+	    	    font-size: 21px;
+	    	    text-align:left;
+	    	    margin-top: 40px;
+	    	    margin-bottom: 0px;
+	    	    width:500px; 
+	    	    height:20%;
+	    	    margin-left: 190px;
+	    	    float: left;
+
+	    }	
+	    .headerform{
+	    	         float: right;
+	    	         width:392px;
+	    	         color: white;
+	    	         height: 65px;
+	    	         margin-top: 10px;
+	    	         margin-right: 180px;
+		}   
+		select{
+			padding:6px;
+			float: left;
+		}
+
+
+	    
